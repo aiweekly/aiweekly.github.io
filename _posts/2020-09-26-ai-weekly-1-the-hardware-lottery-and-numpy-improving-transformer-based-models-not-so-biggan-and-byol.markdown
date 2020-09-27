@@ -1,6 +1,6 @@
 ---
 title: week 1 - the hardware lottery and Numpy | improving transformer-based models | not-so-BigGAN and BYOL
-permalink: /week1
+permalink: /posts/week-1-the-hardware-lottery-and-numpy-and-more
 ---
 This is the first edition of ai weekly where I aim to share my notes on the research that I've found interesting in the past week. This week we will explore 6 impressive papers showcasing the latest innovations in natural language processing and computer vision as well as 2 papers focused on hardware and software efforts and limitations in scientific computing.
 
