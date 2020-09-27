@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-There are plenty of influential academic papers published every day on artificial intelligence (AI) and machine learning (ML). So staying up-to-date with the latest trends has become increasingly difficult for AI researchers. 
+There are plenty of influential academic papers published every day on artificial intelligence (AI) and machine learning (ML). So staying up-to-date with the latest trends has become increasingly difficult for AI/ML researchers. 
 
 I aim to provide my notes on the research papers that I find interesting every week. The papers that I write about are mostly related to natural language processing and computer vision research.
 
