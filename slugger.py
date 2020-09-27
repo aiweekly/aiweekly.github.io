@@ -6,5 +6,9 @@ if __name__ == '__main__':
     parser.add_argument('-n', '--name')
     args = parser.parse_args()
 
-    slug = datetime.date.today().strftime("%Y-%m-%d") + '-' + args.name.replace(' | ', ' ').replace(' - ', ' ').replace(' ', '-').lower()
+    short = args.name.split('|')[0] + 'and more'
+    clean = short.replace(' | ', ' ').replace(' - ', ' ').replace(' ', '-').lower()
+    slug = datetime.date.today().strftime("%Y-%m-%d") + '-' + clean
+    permalink = '/posts/' + clean
     print(slug)
+    print(permalink)
