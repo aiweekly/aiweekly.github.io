@@ -1,5 +1,5 @@
 ---
-title: week 2 - EEG signal patterns and medical devices | adaptive and conditional language modeling | advances in question answering and dialogue systems
+title: week 2 - EEG patterns and medical devices | GroC and GeDi | QA and dialogue systems
 permalink: /posts/week-2-eeg-signal-patterns-and-medical-devices-and-more
 ---
 Welcome to the second edition of ai weekly. A short read presenting some of the most interesting research on machine learning I've found in the past week. If you missed the first week's issue, you can check it out [here](https://aiweekly.github.io/posts/week-1-the-hardware-lottery-and-numpy-and-more).
