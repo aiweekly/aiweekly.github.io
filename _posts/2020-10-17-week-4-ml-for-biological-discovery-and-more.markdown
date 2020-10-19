@@ -8,7 +8,7 @@ Welcome to the fourth edition of ai weekly. This week, we will explore ML for ex
 
 [https://www.cell.com/cell-systems/fulltext/S2405-4712(20)30364-1](https://www.cell.com/cell-systems/fulltext/S2405-4712(20)30364-1)
 
-**What is it?** This paper shows how biological discovery can be accelerated by using machine learning approaches such as gaussian process-based algorithms that can quantify prediction uncertainty allowing researchers to design experiments around hypotheses with a high likelihood of success. 
+**What is it?** This paper shows how biological discovery can be accelerated by using machine learning approaches that can quantify prediction uncertainty (e.g. gaussian process-based algorithms) allowing researchers to design experiments around hypotheses with a high likelihood of success.
 
 **Why it matters?** Researchers in biological settings usually run thousands or millions of experiments per day making it difficult for human experts to evaluate the results and make educated hypotheses that would guide further experimental design. While machine learning algorithms are ideal candidates for automating this hypothesis generation process, their behavior can become unpredictable when exploring regions beyond the training data distribution. This work shows how machine learning methods that quantify prediction uncertainty can overcome this issue and help increase the adoption of these algorithms into biological discovery and experimental design.
 
