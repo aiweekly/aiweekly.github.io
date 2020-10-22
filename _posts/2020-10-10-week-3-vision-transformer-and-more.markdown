@@ -14,7 +14,7 @@ Welcome to the third edition of ai weekly. This week, we have three computer vis
 
 ### EvolGAN: Evolutionary Generative Adversarial Networks
 
-[https://arxiv.org/abs/2009.13311v1](https://arxiv.org/abs/2009.13311v1)
+[https://arxiv.org/abs/2009.13311](https://arxiv.org/abs/2009.13311)
 
 **What is it?** This paper introduces an evolutionary optimization method for optimizing the latent code passed to the generator. This allows the generator to map this input to an image with significantly higher quality (in certain classes) without modifying the weights of the GAN network.
 

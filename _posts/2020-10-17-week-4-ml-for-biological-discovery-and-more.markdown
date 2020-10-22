@@ -14,7 +14,7 @@ Welcome to the fourth edition of ai weekly. This week, we will explore ML for ex
 
 ### MEGATRON-CNTRL: Controllable Story Generation with External Knowledge Using Large-Scale Language Models
 
-[https://arxiv.org/abs/2010.00840v1](https://arxiv.org/abs/2010.00840v1)
+[https://arxiv.org/abs/2010.00840](https://arxiv.org/abs/2010.00840)
 
 [https://developer.nvidia.com/blog/adding-external-knowledge-and-controllability-to-language-models-with-megatron-cntrl/](https://developer.nvidia.com/blog/adding-external-knowledge-and-controllability-to-language-models-with-megatron-cntrl/)
 
